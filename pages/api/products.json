@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Nice Sweat Wool",
+    "price": "0.09",
+    "description": "Get this with a discount",
+    "image_url": "https://bafybeig4jtpxlafjb2g3a2epibyea3duulal2hzumpni5clk6m2bohrm7u.ipfs.dweb.link/",
+    "filename": "Sweat cloth",
+    "hash": "QmdAcPZbRg428EUY7uSxEeVoEqRDgSwEyheJUv7RfUaAzx"
+  },
+  {
+    "id": 4,
+    "name": "Wool cloth",
+    "price": "50",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmacS1KK6vaAiPFwXdEPbEaY93JkDNVmgBE6smS2sJZppg",
+    "description": ""
+  }
+]
