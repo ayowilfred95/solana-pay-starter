@@ -18,7 +18,7 @@ export default function handler(req, res){
         filename,
         hash,
       });
-      fs.writeFileSync("./pages/api/products.json", JSON.stringify(products, null, 2));
+      fs.writeFileSync("./pages/api/products.json", JSON.stringify(products, null, 6));
       res.status(200).send({ status: "ok" });
     } catch (error) {
       console.error(error);
